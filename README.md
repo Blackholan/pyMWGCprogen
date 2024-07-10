@@ -15,7 +15,6 @@ More details on the method and applications can be found in the paper:
 
 [No globular cluster progenitors in Milky Way satellite galaxies](https://arxiv.org/abs/2106.09419) [code paper]
 
-The code is free of use but for any research done with it you are kindly asked to cite the code paper [Boldrini & Bovy +22](https://arxiv.org/abs/2106.09419) and the galpy paper [Bovy +15](https://arxiv.org/abs/1412.3451)
 
 ### Usage
 
@@ -24,12 +23,10 @@ This repository contains:
 * Jupyter notebook
 * Input data
 
-
-## Licensing 
-
-pyMWGCprogen is distributed under the MIT license. See [MIT License](https://en.wikipedia.org/wiki/MIT_License) for more details. If you want to use this free-of-use code for your own research, it would be appreciated that you cite this paper. 
-
 ## Authors
+
+pyMWGCprogen is distributed under the MIT license. See [MIT License](https://en.wikipedia.org/wiki/MIT_License) for more details. 
+If you use pyMWGCprogen in a publication, please cite the code paper [Boldrini & Bovy +22](https://arxiv.org/abs/2106.09419) and the galpy paper [Bovy +15](https://arxiv.org/abs/1412.3451).
 
 * [Pierre Boldrini](mailto:boldrini@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP), France
 * [Jo Bovy](mailto:boldrini@iap.fr) -- University of Toronto, Canada
