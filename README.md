@@ -13,11 +13,9 @@ pyMWGCprogen is a Python package which performs orbit integrations to track the 
 
 More details on the method and applications can be found in the paper:
 
-[![ArXiv](https://img.shields.io/badge/arXiv-2302...-yellowgreen.svg)](https://arxiv.org/abs/2302.00655) [![ArXiv](https://img.shields.io/badge/arXiv-2312...-yellowgreen.svg)](https://arxiv.org/pdf/2312.06559.pdf) [![ArXiv](https://img.shields.io/badge/arXiv-2402...-yellowgreen.svg)](https://arxiv.org/pdf/2402.03693.pdf)
-
 [No globular cluster progenitors in Milky Way satellite galaxies](https://arxiv.org/abs/2106.09419) [code paper]
 
-The code is free of use but for any research done with it you are kindly asked to cite the code paper 
+The code is free of use but for any research done with it you are kindly asked to cite the code paper [![ArXiv](https://img.shields.io/badge/arXiv-2302...-yellowgreen.svg)](https://arxiv.org/abs/2302.00655) and galpy paper [![ArXiv](https://img.shields.io/badge/arXiv-2312...-yellowgreen.svg)](https://arxiv.org/pdf/2312.06559.pdf)
 
 
 
