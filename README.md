@@ -15,7 +15,7 @@ More details on the method and applications can be found in the paper:
 
 [No globular cluster progenitors in Milky Way satellite galaxies](https://arxiv.org/abs/2106.09419) [code paper]
 
-The code is free of use but for any research done with it you are kindly asked to cite the code paper  [![ArXiv](https://img.shields.io/badge/arXiv-2302...-yellowgreen.svg)](https://arxiv.org/abs/2302.00655) and galpy paper  [![ArXiv](https://img.shields.io/badge/arXiv-2312...-yellowgreen.svg)](https://arxiv.org/pdf/2312.06559.pdf)
+The code is free of use but for any research done with it you are kindly asked to cite the code paper [Boldrini & Bovy +22](https://arxiv.org/abs/2106.09419) and the galpy paper [Bovy +15](https://arxiv.org/abs/1412.3451)
 
 
 
