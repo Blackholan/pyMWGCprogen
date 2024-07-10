@@ -9,34 +9,17 @@
   <img src="ghI.jpg">
 </p>
 
-pyMWGCprogen is a Python package which performs orbit integrations to track the orbits of 170 Galactic globular clusters and the 11 classical Milky Way satellite galaxies backwards in time in a Milky-Way-plus-satellites potential including the response of the Milky Way to the infall of the Large Magellanic Cloud and the effect of dynamical friction on the satellites.
+pyMWGCprogen is a Python package which performs orbit integrations to track the orbits of 170 Galactic globular clusters and the 11 classical Milky Way satellite galaxies backwards in time in a Milky-Way-plus-satellites potential including the response of the Milky Way to the infall of the Large Magellanic Cloud and the effect of dynamical friction on the satellites. [tqdm](https://tqdm.github.io/) intensively use [galpy](https://galpy.github.io/) for galactic dynamics.
 
 More details on the method and applications can be found in the paper:
 
 [![ArXiv](https://img.shields.io/badge/arXiv-2302...-yellowgreen.svg)](https://arxiv.org/abs/2302.00655) [![ArXiv](https://img.shields.io/badge/arXiv-2312...-yellowgreen.svg)](https://arxiv.org/pdf/2312.06559.pdf) [![ArXiv](https://img.shields.io/badge/arXiv-2402...-yellowgreen.svg)](https://arxiv.org/pdf/2402.03693.pdf)
 
-
-[Cosmological Flow of Primordial Correlators](https://arxiv.org/abs/2302.00655) [short paper]
-
-[The Cosmological Flow: a Systematic Approach to Inflationary Correlators](https://arxiv.org/pdf/2312.06559.pdf) [long paper]
-
-[CosmoFlow: Python Package for Cosmological Correlators](https://arxiv.org/pdf/2402.03693.pdf) [code paper]
-
-* [Denis Werth](mailto:werth@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP)
-* [Lucas Pinol](mailto:lucas.pinol@phys.ens.fr) -- Laboratoire de Physique de l'École Normale Supérieure (LPENS), ENS, CNRS, Université PSL, Sorbonne Université, Université Paris Cité
-* [Sébastien Renaux-Petel](mailto:petel@iap.fr) -- CNRS, Institut d'Astrophysique de Paris (IAP)
+[No globular cluster progenitors in Milky Way satellite galaxies](https://arxiv.org/abs/2106.09419) [code paper]
 
 The code is free of use but for any research done with it you are kindly asked to cite the code paper 
 
-### Prerequisites
 
-pyMBHdyn can be used on any system that supports Python 3. The following modules/packages are required:
-
-* Python (3)
-* numpy
-* scipy
-* [tqdm](https://tqdm.github.io/) (for numerical integration visualisation)
-* matplotlib
 
 
 ## Licensing 
