@@ -15,7 +15,7 @@ More details on the method and applications can be found in the paper:
 
 [No globular cluster progenitors in Milky Way satellite galaxies](https://arxiv.org/abs/2106.09419) [code paper]
 
-The code is free of use but for any research done with it you are kindly asked to cite the code paper [![ArXiv](https://img.shields.io/badge/arXiv-2302...-yellowgreen.svg)](https://arxiv.org/abs/2302.00655) and galpy paper [![ArXiv](https://img.shields.io/badge/arXiv-2312...-yellowgreen.svg)](https://arxiv.org/pdf/2312.06559.pdf)
+The code is free of use but for any research done with it you are kindly asked to cite the code paper  [![ArXiv](https://img.shields.io/badge/arXiv-2302...-yellowgreen.svg)](https://arxiv.org/abs/2302.00655) and galpy paper  [![ArXiv](https://img.shields.io/badge/arXiv-2312...-yellowgreen.svg)](https://arxiv.org/pdf/2312.06559.pdf)
 
 
 
@@ -26,6 +26,6 @@ pyMWGCprogen is distributed under the MIT license. See [MIT License](https://en.
 
 ## Authors
 
-* [Pierre Boldrini](mailto:boldrini@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP)
-* [Jo Bovy](mailto:boldrini@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP)
+* [Pierre Boldrini](mailto:boldrini@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP), France
+* [Jo Bovy](mailto:boldrini@iap.fr) -- University of Toronto, Canada
 
