@@ -1,16 +1,17 @@
 
-
 [![Python](https://img.shields.io/badge/python-3.8.2-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 
 # pyMWGCprogen
-Performing orbit integrations to track the orbits of 170 Galactic globular clusters and the 11 classical Milky Way satellite galaxies backwards in time in a Milky-Way-plus-satellites potential including the response of the Milky Way to the infall of the Large Magellanic Cloud and the effect of dynamical friction on the satellites
+
 
 <p align="center">
   <img src="ghI.jpg">
 </p>
 
-This repository contains details on CosmoFlow, a Pyhton package to automatically compute cosmological correlators. More details on the method and applications can be found in the paper:
+pyMWGCprogen is a Python package which performs orbit integrations to track the orbits of 170 Galactic globular clusters and the 11 classical Milky Way satellite galaxies backwards in time in a Milky-Way-plus-satellites potential including the response of the Milky Way to the infall of the Large Magellanic Cloud and the effect of dynamical friction on the satellites.
+
+More details on the method and applications can be found in the paper:
 
 [![ArXiv](https://img.shields.io/badge/arXiv-2302...-yellowgreen.svg)](https://arxiv.org/abs/2302.00655) [![ArXiv](https://img.shields.io/badge/arXiv-2312...-yellowgreen.svg)](https://arxiv.org/pdf/2312.06559.pdf) [![ArXiv](https://img.shields.io/badge/arXiv-2402...-yellowgreen.svg)](https://arxiv.org/pdf/2402.03693.pdf)
 
