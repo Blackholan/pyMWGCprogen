@@ -20,8 +20,12 @@ More details on the method and applications can be found in the paper:
 
 This repository contains: 
 
-* Jupyter notebook
-* Input data
+* dwarforb.py, a python script that allows generating dwarf Monte Carlo samples
+* pyMWGCprogen.ipynb, a jupyter notebook that allows running the code
+* dataBattaglia21.txt, Milky Way dwarf galaxies catalog
+* dataVasiliev21.txt, Milky-Way globular clusters catalog
+
+We Monte Carlo sample the 6D phase-space position of Milky Way dwarfs and globular clusters by sampling the distance, the radial velocity and proper motions including the covariance using Gaussian error distributions with means and standard deviations given the Milky-Way globular clusters (Vasiliev & Baumgardt +21) and satellite galaxies (Battaglia et al. +21) catalogs with data from Gaia EDR3 (Gaia Collaboration, et al. +18).
 
 ## Authors
 
