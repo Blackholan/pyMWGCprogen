@@ -25,7 +25,7 @@ This repository contains:
 * dataBattaglia21.txt, Milky Way dwarf galaxies catalog
 * dataVasiliev21.txt, Milky-Way globular clusters catalog
 
-We Monte Carlo sample the 6D phase-space position of Milky Way dwarfs and globular clusters by sampling the distance, the radial velocity and proper motions including the covariance using Gaussian error distributions with means and standard deviations given the Milky-Way globular clusters [(Vasiliev & Baumgardt +21)](https://arxiv.org/abs/2102.09568) and satellite galaxies [(Battaglia et al. +21)](https://arxiv.org/abs/2106.08819) catalogs with data from Gaia EDR3.
+We Monte Carlo sample the 6D phase-space position of Milky Way dwarfs and globular clusters by sampling the distance, the radial velocity and proper motions including the covariance using Gaussian error distributions with means and standard deviations given by Milky-Way globular clusters [(Vasiliev & Baumgardt +21)](https://arxiv.org/abs/2102.09568) and satellite galaxies [(Battaglia et al. +21)](https://arxiv.org/abs/2106.08819) catalogs with data from Gaia EDR3.
 
 ## Authors
 
