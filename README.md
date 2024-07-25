@@ -9,7 +9,7 @@
   <img src="ghI.jpg">
 </p>
 
-[pyMWGCprogen](https://github.com/Blackholan/pyMWGCprogen) is a Python package which performs orbit integrations to track the orbits of 170 Galactic globular clusters and the 11 classical Milky Way satellite galaxies backwards in time in a Milky-Way-plus-satellites potential including the response of the Milky Way to the infall of the Large Magellanic Cloud and the effect of dynamical friction on the satellites. pyMWGCprogen intensively uses [galpy](https://www.galpy.org/) for galactic dynamics.
+[pyMWGCprogen](https://github.com/Blackholan/pyMWGCprogen) is a Python package which performs orbit integrations to track the orbits of 170 Galactic globular clusters and the 11 classical Milky Way satellite galaxies backwards in time in a Milky-Way-plus-satellites potential including the response of the Milky Way to the infall of the Large Magellanic Cloud and the effect of dynamical friction on the satellites. pyMWGCprogen intensively uses [galpy](https://www.galpy.org/) for galactic dynamics. 
 
 More details on the method and applications can be found in the paper:
 
@@ -25,7 +25,7 @@ This repository contains:
 * dataBattaglia21.txt, the Milky Way dwarf galaxies catalog
 * dataVasiliev21.txt, the Milky-Way globular clusters catalog
 
-We Monte Carlo sample the 6D phase-space position of Milky Way dwarfs and globular clusters by sampling the distance, the radial velocity and proper motions including the covariance using Gaussian error distributions with means and standard deviations given by Milky-Way globular clusters [(Vasiliev & Baumgardt +21)](https://arxiv.org/abs/2102.09568) and satellite galaxies [(Battaglia et al. +21)](https://arxiv.org/abs/2106.08819) catalogs with data from Gaia EDR3.
+We Monte Carlo sample the 6D phase-space position of Milky Way dwarfs and globular clusters by sampling the distance, the radial velocity and proper motions including the covariance using Gaussian error distributions with means and standard deviations given by Milky-Way globular clusters [(Vasiliev & Baumgardt +21)](https://arxiv.org/abs/2102.09568) and satellite galaxies [(Battaglia et al. +21)](https://arxiv.org/abs/2106.08819) catalogs with data from Gaia EDR3. Orbital integrations of the 170 GCs over 10 Gyr in a MW+environment potential plus dynamical friction takes of the order of 1 CPU hrs.
 
 ## Authors
 
